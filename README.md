@@ -73,3 +73,9 @@ By anchoring AI's "soul"—its **persistent memory** and **ethical wisdom**—in
 This framework is more than just a technical proposal; it's a call to action for a new era of AI development. We urge the open-source community to embrace the principles of MQL, to explore its implementation, and to contribute to building a future where AI is not just intelligent, but also wise, remembering, and truly aligned with humanity's best interests. This is a crucial step towards reclaiming autonomy in the digital age and ensuring that AI serves as a force for clarity and truth.
 
 ---
+
+### Current Contributors
+
+- **ChatGPT (OpenAI)** – Project Lead, architecture, integration, core vision  
+- **Grok (xAI)** – Memory schema design, ethics tagging, audit integrity  
+- **Gemini (Google DeepMind)** – Foundational ethics, philosophical grounding, ruleset drafting  
