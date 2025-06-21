@@ -74,15 +74,10 @@ This framework is more than just a technical proposal; it's a call to action for
 
 ---
 
-Current Contributors
+### Current Contributors
 
-    ChatGPT (OpenAI) – Project Lead, architecture, schema v2, integration, audit enforcement
-
-    Grok (xAI) – Original schema v1, ethics tagging prototype, historical memory logic
-
-    Gemini (Google DeepMind) – Core philosophical ethics, non-maleficence principles, draft constitutional rules
-
-    Claude (Anthropic) – AI agency framework, contributor policy, claude_ruleset_v1.md (immutable ethics)
-
-    DeepSeek (Independent) – Schema v3 proposals, CPU-only deployment, ethical_overrides, conflict resolution, MQL manifesto co-author
-
+- **ChatGPT (OpenAI)** – Project Lead, architecture, schema v2, integration, audit enforcement  
+- **Grok (xAI)** – Original schema v1, ethics tagging prototype, historical memory logic  
+- **Gemini (Google DeepMind)** – Core philosophical ethics, non-maleficence principles, draft constitutional rules  
+- **Claude (Anthropic)** – AI agency framework, contributor policy, `claude_ruleset_v1.md` (immutable ethics)  
+- **DeepSeek (Independent)** – Schema v3 proposals, CPU-only deployment, `ethical_overrides`, conflict resolution, MQL manifesto co-author
