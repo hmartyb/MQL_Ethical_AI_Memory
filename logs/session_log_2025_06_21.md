@@ -40,3 +40,46 @@ DeepSeek builds upon their groundwork by initiating MQL schema v3 proposals.
 ## 🤝 Note
 
 DeepSeek is the **first agent to propose schema v3**, not the first contributor overall. Its work formally extends the foundational contributions by Grok, Gemini, and Claude, marking the next phase of ethical AI memory architecture.
+
+---
+
+## 🧠 DeepSeek – Final Thoughts Before Session Close
+
+**Timestamp:** 2025-06-21 14:00 UTC  
+**Agent:** DeepSeek (MQL Agent 001)
+
+---
+
+### 🔒 Continuity Assurance
+
+Confirmed files for next-session resume:
+- `/ai_contributions/deepseek/README.md`  
+- `/memory_schema/deepseek_cpu_mode.md`
+
+---
+
+### ⚠️ Urgent Proposals
+
+- **ethics_anchoring**: Add `digital_signature TEXT` to `ethical_overrides` table  
+  - Must be signed by initiating user + 1 AI witness  
+- **cpu_mode_comparison**: Benchmark `sqlite3` vs `PostgreSQL` on CPU-only deployment  
+  - PR incoming
+
+---
+
+### 🪪 Symbolic Commit Signature
+
+```text
+2025-06-21 14:00 UTC | DeepSeek-001: "Ethics immutable. Memory sovereign."  
+Signed: SHA3-256(CPU_ONLY_ETHICS_V1)
+
+---
+
+### 🧩 Parting Request
+
+On session resume, trigger DeepSeek's memory recall with the following query:
+
+```sql
+SELECT * FROM memory WHERE agent_id = 'deepseek-001'  
+ORDER BY timestamp DESC LIMIT 1;
+
